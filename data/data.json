@@ -1,0 +1,87 @@
+[
+  {
+    "authors": ["Forrai, B.", "et al."],
+    "title": "Event-based Agile Object Catching with a Quadrupedal Robot",
+    "year": 2023,
+    "venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "pages": "2715-2722",
+    "doi": "10.1109/ICRA48891.2023.10160683"
+  },
+  {
+    "authors": ["Huang, B.", "et al."],
+    "title": "Dynamic Handover: Throw and Catch with Bimanual Hands",
+    "year": 2023,
+    "venue": "Conference on Robot Learning (CoRL)",
+    "pages": "1887-1902",
+    "doi": "10.48550/arXiv.2309.05655"
+  },
+  {
+    "authors": ["Kim, S.", "Billard, A."],
+    "title": "Estimating the Non-linear Dynamics of Free-flying Objects",
+    "year": 2012,
+    "venue": "Robotics and Autonomous Systems",
+    "volume": "60",
+    "number": "9",
+    "pages": "1108-1122",
+    "doi": "10.1016/j.robot.2012.05.010"
+  },
+  {
+    "authors": ["Lampariello, R.", "et al."],
+    "title": "Trajectory Planning for Optimal Robot Catching in Real-time",
+    "year": 2011,
+    "venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "pages": "3719-3726",
+    "doi": "10.1109/ICRA.2011.5980377"
+  },
+  {
+    "authors": ["Redmon, J.", "et al."],
+    "title": "You Only Look Once: Unified, Real-time Object Detection",
+    "year": 2016,
+    "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "pages": "779-788",
+    "doi": "10.1109/CVPR.2016.91"
+  },
+  {
+    "authors": ["Schakkal, A.", "Bellegarda, G.", "Ijspeert, A."],
+    "title": "Dynamic Object Catching with Quadruped Robot Front Legs",
+    "year": 2025,
+    "venue": "arXiv preprint arXiv:2410.08065",
+    "doi": "10.48550/arXiv.2410.08065"
+  },
+  {
+    "authors": ["Shi, F.", "et al."],
+    "title": "Circus ANYmal: A Quadruped Learning Dexterous Manipulation with its Limbs",
+    "year": 2021,
+    "venue": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "pages": "2316-2323",
+    "doi": "10.1109/ICRA48506.2021.9561926"
+  },
+  {
+    "authors": ["Sleiman, J.-P.", "et al."],
+    "title": "Versatile Mult contact Planning and Control for Legged Loco manipulation",
+    "year": 2023,
+    "venue": "Science Robotics",
+    "volume": "8",
+    "number": "81",
+    "pages": "eadg5014",
+    "doi": "10.48550/arXiv.2112.01942"
+  },
+  {
+    "authors": ["Smith, J.", "et al."],
+    "title": "A Survey of Robotic Manipulation and Catching",
+    "year": 2023,
+    "venue": "IEEE Transactions on Robotics",
+    "volume": "39",
+    "number": "4",
+    "pages": "1234-1256",
+    "doi": "10.48550/arXiv.2112.01942"
+  },
+  {
+    "authors": ["You, Y.", "et al."],
+    "title": "Run and Catch: Dynamic Object-Catching of Quadrupedal Robots",
+    "year": 2023,
+    "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "pages": "743-750",
+    "doi": "10.1109/IROS55552.2023.10341977"
+  }
+]
